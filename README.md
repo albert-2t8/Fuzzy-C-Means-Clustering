@@ -25,6 +25,8 @@ The results should look similar to the following examples:
 
 <img width="1501" height="442" alt="image" src="https://github.com/user-attachments/assets/023757bc-c87e-4de0-82da-5417ca8233a8" />
 
+<img width="773" height="476" alt="image" src="https://github.com/user-attachments/assets/1ef90e3c-5244-4197-a092-57440ddf3478" />
+
 
 <img width="1567" height="491" alt="image" src="https://github.com/user-attachments/assets/10443527-2784-4e3b-bdaa-22c071338489" />
 
